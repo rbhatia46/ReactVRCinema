@@ -22,4 +22,4 @@ You app will run on **localhost:8081/vr** by default.
 
 * Use of a VR Headset can give you a very realistic feel(similar to an Outdoor Movie watch)
 
-**Enjoy your Cinema**
+**Enjoy your Cinema!**
